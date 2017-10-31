@@ -6,7 +6,9 @@ See screenshots
 ![screenshot_555](https://user-images.githubusercontent.com/26852127/32243489-95c1f966-be32-11e7-8d62-2fbdf5af47cc.png)
 ![screenshot_556](https://user-images.githubusercontent.com/26852127/32243490-9686d114-be32-11e7-8c38-35b1ffbc7427.png)
 ![screenshot_557](https://user-images.githubusercontent.com/26852127/32243491-973fed0c-be32-11e7-9c34-b8117b87ebd8.png)
-
+![screenshot_558](https://user-images.githubusercontent.com/26852127/32243492-97f5cdfc-be32-11e7-8a11-3aefe7d97251.png)
+![screenshot_559](https://user-images.githubusercontent.com/26852127/32243496-98a481bc-be32-11e7-9844-1a96655dfdf6.png)
+![screenshot_560](https://user-images.githubusercontent.com/26852127/32243499-995ac918-be32-11e7-9651-476a8dfe69d9.png)
 
 ### Tablet
 ![screenshot_546](https://user-images.githubusercontent.com/26852127/32243425-71042dba-be32-11e7-8a7b-72fc3d626843.png)
