@@ -1,4 +1,4 @@
-# Web Development Bootstrap 4.0.0-beta-2 Real Example
+# Web Development Bootstrap v4.0.0-beta.2 Real Example
 
 See screenshots
 
